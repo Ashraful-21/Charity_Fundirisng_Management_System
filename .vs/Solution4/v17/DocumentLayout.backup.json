@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Ashraful Haque\\Solution4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\userauth\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\userauth\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\userauth\\userhomepage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\userauth\\userhomepage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\userauth\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\userauth\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\message\\activestatus.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -218,7 +218,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -226,13 +226,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserHomePage.js",
               "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\UserAuth\\UserHomePage.js",
               "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\js\\UserAuth\\UserHomePage.js",
-              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\UserAuth\\UserHomePage.js",
-              "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\UserAuth\\UserHomePage.js",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAIsAAAAeAAAAAAAAAA==",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\UserAuth\\UserHomePage.js*",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\UserAuth\\UserHomePage.js*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-11-17T10:09:10.058Z",
               "EditorCaption": ""
@@ -355,12 +355,11 @@
               "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\Message\\ActiveStatus.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-19T05:23:36.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T05:23:36.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Register.js",
               "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\UserAuth\\Register.js",
               "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\js\\UserAuth\\Register.js",
@@ -381,8 +380,7 @@
               "RelativeToolTip": "messageapp.mvc\\Views\\Home\\UserHomePage.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T10:16:57.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T10:16:57.389Z"
             },
             {
               "$type": "Document",

@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\messageapp.mvc",
+    "\\messageapp.mvc\\wwwroot",
+    "\\messageapp.mvc\\wwwroot\\js",
+    "\\messageapp.mvc\\wwwroot\\js\\UserAuth"
+  ],
+  "SelectedNode": "\\messageapp.mvc\\wwwroot\\js\\UserAuth\\UserHomePage.js",
+  "PreviewInSolutionExplorer": false
+}
