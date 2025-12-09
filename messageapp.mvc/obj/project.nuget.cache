@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "vW33bsxdvBA=",
+  "success": true,
+  "projectFilePath": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\messageapp.mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashraf\\.nuget\\packages\\jquery\\2.0.0\\jquery.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ashraf\\.nuget\\packages\\jquery.ui.combined\\1.14.1\\jquery.ui.combined.1.14.1.nupkg.sha512",
+    "C:\\Users\\Ashraf\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax\\3.2.6\\microsoft.jquery.unobtrusive.ajax.3.2.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "Microsoft.jQuery.Unobtrusive.Ajax 3.2.6 depends on jQuery (>= 1.14.1) but jQuery 1.14.1 was not found. jQuery 2.0.0 was resolved instead.",
+      "projectPath": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\messageapp.mvc.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\messageapp.mvc.csproj",
+      "libraryId": "jQuery",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

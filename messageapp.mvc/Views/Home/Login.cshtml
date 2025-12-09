@@ -1,0 +1,113 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    // This layout is required if this is not a standalone file
+    // Layout = "_Layout";
+}
+
+<style>
+    /* --- WHATSAPP COLOR PALETTE --- */
+    :root {
+        --wa-primary-green: #128C7E; /* WhatsApp Main Green (Button/Header) */
+        --wa-dark-green: #075E54; /* Darker Green (Hover) */
+        --wa-background: #ECE5DD; /* Light Chat Background (Page Background) */
+        --wa-card-bg: #FFFFFF; /* Card/Form Background */
+        --wa-border: #DDDDDD; /* Border/Separators */
+    }
+
+    /* --- GLOBAL STYLES --- */
+    body {
+        background-color: var(--wa-background) !important;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    /* --- CARD/FORM STYLING --- */
+    .card {
+        border: 1px solid var(--wa-border);
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        background-color: var(--wa-card-bg);
+    }
+
+    .card-header {
+        background-color: var(--wa-primary-green); /* Green Header */
+        color: white;
+        border-bottom: none;
+        border-radius: 8px 8px 0 0;
+        padding: 20px 0;
+    }
+
+        .card-header h3 {
+            margin: 0;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+
+    .form-label {
+        font-weight: 500;
+        color: var(--wa-dark-green);
+    }
+
+    /* --- INPUT STYLING --- */
+    .form-control {
+        border-color: var(--wa-border);
+        border-radius: 5px;
+        padding: 10px 15px;
+    }
+
+        .form-control:focus {
+            border-color: var(--wa-primary-green);
+            box-shadow: 0 0 0 0.25rem rgba(18, 140, 126, 0.25); /* Green Glow */
+        }
+
+    /* --- BUTTON STYLING (Primary WhatsApp Green) --- */
+    .btn-primary {
+        background-color: var(--wa-primary-green);
+        border-color: var(--wa-primary-green);
+        color: white;
+        padding: 12px;
+        font-weight: 600;
+        border-radius: 50px; /* Rounded button for modern look */
+        transition: background-color 0.2s, border-color 0.2s;
+    }
+
+        .btn-primary:hover,
+        .btn-primary:focus {
+            background-color: var(--wa-dark-green); /* Darker Green on Hover */
+            border-color: var(--wa-dark-green);
+            color: white;
+            box-shadow: none;
+        }
+</style>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-5">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h3>Login to Chat 💬</h3>
+                </div>
+                <div class="card-body p-4">
+                    <form id="loginForm">
+                        <div class="mb-3">
+                            <label for="email" class="form-label">Email Address</label>
+                            <input type="email" class="form-control" id="email" name="email" required />
+                        </div>
+                        <div class="mb-3">
+                            <label for="password" class="form-label">Password</label>
+                            <input type="password" class="form-control" id="password" name="password" required />
+                        </div>
+                        <div class="mb-4 pt-2">
+                            <button type="submit" class="btn btn-primary w-100">
+                                Connect to Concord Chat
+                            </button>
+                        </div>
+                    </form>
+                    <div id="statusMessage" class="text-center text-muted small"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="~/js/userauth/login.js"></script>

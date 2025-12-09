@@ -1,0 +1,858 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ashraful Haque\\Solution4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\userauth\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\userauth\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\userauth\\userhomepage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\userauth\\userhomepage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\message\\activestatus.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\message\\activestatus.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\views\\home\\userhomepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\views\\home\\userhomepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\userauth\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\userauth\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\message\\sendprivatemessage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\message\\sendprivatemessage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\message\\connecttosignarr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\message\\connecttosignarr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\message\\receive\u0026rendermessage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\message\\receive\u0026rendermessage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\message\\loadchat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\message\\loadchat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\message\\loaduser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\message\\loaduser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\message\\gettoken.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\message\\gettoken.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\messageapp.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\messageapp.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\messageapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\messageapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\lib\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\lib\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\messageapp.mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\messageapp.mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\messageapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\messageapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\migrations\\20251116085959_identitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\migrations\\20251116085959_identitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\messageapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\messageapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|e:\\ashraful haque\\solution4\\messageapp.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47226499-74D4-4EC3-81A6-E064D08E7BE0}|messageapp.mvc\\messageapp.mvc.csproj|solutionrelative:messageapp.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|e:\\ashraful haque\\solution4\\messageapp\\migrations\\20251119041332_addmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447287B0-C39B-4548-B132-CFA972BDC2C9}|messageapp\\messageapp.csproj|solutionrelative:messageapp\\migrations\\20251119041332_addmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserHomePage.js",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\UserAuth\\UserHomePage.js",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\js\\UserAuth\\UserHomePage.js",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\UserAuth\\UserHomePage.js",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\UserAuth\\UserHomePage.js",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAIsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-17T10:09:10.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "messageapp\\Hubs\\ChatHub.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "messageapp\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:18:49.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Program.cs",
+              "RelativeDocumentMoniker": "messageapp\\Program.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Program.cs",
+              "RelativeToolTip": "messageapp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:33:34.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "messageapp\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "messageapp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:04:12.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAuthController.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Controllers\\UserAuthController.cs",
+              "RelativeDocumentMoniker": "messageapp\\Controllers\\UserAuthController.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Controllers\\UserAuthController.cs",
+              "RelativeToolTip": "messageapp\\Controllers\\UserAuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:44:12.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoadUser.js",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\LoadUser.js",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\js\\Message\\LoadUser.js",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\LoadUser.js",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\Message\\LoadUser.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-19T05:20:36.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Views\\Home\\Login.cshtml",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "messageapp.mvc\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T04:45:42.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.js",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\UserAuth\\Login.js",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\js\\UserAuth\\Login.js",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\UserAuth\\Login.js",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\UserAuth\\Login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-16T10:30:50.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetToken.js",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\GetToken.js",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\js\\Message\\GetToken.js",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\GetToken.js",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\Message\\GetToken.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-19T05:18:18.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConnectToSignarR.js",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\ConnectToSignarR.js",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\js\\Message\\ConnectToSignarR.js",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\ConnectToSignarR.js",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\Message\\ConnectToSignarR.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-19T05:19:41.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActiveStatus.js",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\ActiveStatus.js",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\js\\Message\\ActiveStatus.js",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\ActiveStatus.js",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\Message\\ActiveStatus.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-19T05:23:36.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.js",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\UserAuth\\Register.js",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\js\\UserAuth\\Register.js",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\UserAuth\\Register.js",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\UserAuth\\Register.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-16T05:04:13.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserHomePage.cshtml",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Home\\UserHomePage.cshtml",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Views\\Home\\UserHomePage.cshtml",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Home\\UserHomePage.cshtml",
+              "RelativeToolTip": "messageapp.mvc\\Views\\Home\\UserHomePage.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T10:16:57.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "messageapp\\Controllers\\MessageController.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "messageapp\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:25:08.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoadChat.js",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\LoadChat.js",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\js\\Message\\LoadChat.js",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\LoadChat.js",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\Message\\LoadChat.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-19T05:21:12.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SendPrivateMessage.js",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\SendPrivateMessage.js",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\js\\Message\\SendPrivateMessage.js",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\SendPrivateMessage.js",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\Message\\SendPrivateMessage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-19T05:21:43.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Receive\u0026RenderMessage.js",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\Receive\u0026RenderMessage.js",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\js\\Message\\Receive\u0026RenderMessage.js",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\Message\\Receive\u0026RenderMessage.js",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\Message\\Receive\u0026RenderMessage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-19T05:22:31.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20251119041332_AddMessages.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Migrations\\20251119041332_AddMessages.cs",
+              "RelativeDocumentMoniker": "messageapp\\Migrations\\20251119041332_AddMessages.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Migrations\\20251119041332_AddMessages.cs",
+              "RelativeToolTip": "messageapp\\Migrations\\20251119041332_AddMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:13:33.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "messageapp\\Models\\Message.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Models\\Message.cs",
+              "RelativeToolTip": "messageapp\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:06:47.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "messageapp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "messageapp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T09:12:24.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "messageapp.csproj",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\messageapp.csproj",
+              "RelativeDocumentMoniker": "messageapp\\messageapp.csproj",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\messageapp.csproj",
+              "RelativeToolTip": "messageapp\\messageapp.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T07:48:55.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "messageapp.mvc.csproj",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\messageapp.mvc.csproj",
+              "RelativeDocumentMoniker": "messageapp.mvc\\messageapp.mvc.csproj",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\messageapp.mvc.csproj",
+              "RelativeToolTip": "messageapp.mvc\\messageapp.mvc.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T05:32:13.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\appsettings.json",
+              "RelativeDocumentMoniker": "messageapp\\appsettings.json",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\appsettings.json",
+              "RelativeToolTip": "messageapp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T08:41:37.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\js\\site.js",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-18T08:41:36.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "package.json",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\lib\\package.json",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\lib\\package.json",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\lib\\package.json",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\lib\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T09:18:42.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\favicon.ico",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-11-18T09:20:20.259Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "messageapp\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "messageapp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T11:23:10.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-18T09:24:58.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "messageapp\\WeatherForecast.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\WeatherForecast.cs",
+              "RelativeToolTip": "messageapp\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:41:30.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Program.cs",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Program.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Program.cs",
+              "RelativeToolTip": "messageapp.mvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:51:11.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "messageapp\\Data\\ApplicationUser.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "messageapp\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:41:42.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "messageapp.mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T04:47:16.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "messageapp.mvc\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T05:53:15.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "messageapp.mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T05:53:23.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Views\\Home\\Register.cshtml",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "messageapp.mvc\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T04:46:06.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "messageapp\\Models\\LoginModel.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Models\\LoginModel.cs",
+              "RelativeToolTip": "messageapp\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:48:03.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "jquery.js",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "messageapp.mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "messageapp.mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-17T06:03:08.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "messageapp\\Models\\RegisterModel.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "messageapp\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:48:06.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "messageapp.mvc",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\messageapp.mvc.csproj",
+              "RelativeDocumentMoniker": "messageapp.mvc\\messageapp.mvc.csproj",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\messageapp.mvc.csproj",
+              "RelativeToolTip": "messageapp.mvc\\messageapp.mvc.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T11:21:34.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "messageapp.mvc\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T11:22:46.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "messageapp.http",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\messageapp.http",
+              "RelativeDocumentMoniker": "messageapp\\messageapp.http",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\messageapp.http",
+              "RelativeToolTip": "messageapp\\messageapp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-16T05:25:12.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "messageapp.mvc\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T07:33:51.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "messageapp.mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T07:39:00.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "messageapp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "messageapp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T09:33:15.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "messageapp.mvc\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T07:39:06.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "messageapp",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\messageapp.csproj",
+              "RelativeDocumentMoniker": "messageapp\\messageapp.csproj",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\messageapp.csproj",
+              "RelativeToolTip": "messageapp\\messageapp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T07:47:37.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20251116085959_IdentityTable.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Migrations\\20251116085959_IdentityTable.cs",
+              "RelativeDocumentMoniker": "messageapp\\Migrations\\20251116085959_IdentityTable.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Migrations\\20251116085959_IdentityTable.cs",
+              "RelativeToolTip": "messageapp\\Migrations\\20251116085959_IdentityTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:59:59.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "messageapp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "messageapp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T09:00:18.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "messageapp.mvc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:42:15.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "messageapp.mvc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T05:52:48.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "messageapp.mvc\\appsettings.json",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\appsettings.json",
+              "RelativeToolTip": "messageapp.mvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T05:52:09.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "messageapp.mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Ashraful Haque\\Solution4\\messageapp.mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "messageapp.mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T05:56:03.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
